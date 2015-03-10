@@ -1,0 +1,30 @@
+# Lista do que consideraremos como Itens de Configuração.
+
+Os documentos descritos abaixo poderão ser entregas como Item de Configuração do seu Projeto.
+
+Itens de Configuração
+
+1. Especificação do Sistema
+2. Plano de Projeto de Software
+3. Especificação de Requisitos do Software
+4. Manual Preliminar do Usuário
+5. Especificação do Projeto
+	a) Descrição do Projeto de Dados
+	b) Descrição do Projeto Arquitetural
+	c) Descrições do Projeto Modular
+	d) Descrições do Projeto de Interface
+	e) Descrições de Objetos (se forem usadas técnicas orientadas a objetos)
+6. Listagem do código-fonte
+7. Planos, Procedimentos, Casos de Testes e Resultados Registrados
+8. Manuais Operacionais e de Instalação
+9. Programa Executável e Módulos Interligados
+10. Descrição do Banco de Dados
+	a) Esquema e estrutura de arquivo
+	b) Conteúdo inicial
+11. Manual do Usuário
+12. Documentos de Manutenção
+	a) Relatórios de problemas de software
+	b) Solicitações de manutenção
+	c) Pedidos de mudança
+13. Padrões e procedimentos para engenharia de software
+14. Ferramentas de produção de software (editores, compiladores, CASE, etc.)
