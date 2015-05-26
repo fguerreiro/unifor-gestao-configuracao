@@ -1,5 +1,6 @@
 /*
 * Criação de um novo arquivo java.
+Modificacao em Grupo B - F. Guerreiro
 */
 public class Gestao{
 
